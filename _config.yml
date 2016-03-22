@@ -1,0 +1,28 @@
+name: Concrete Saplings
+favicon: null
+layout_spectrum: 0.8335470396559685
+typography_spectrum: 0.8898948936257511
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.9924955326132476
+  lightness: 0.887765796855092
+  saturation: 0.5199985990766436
+  rhythmicContrast: 0.6461619823239744
+purpose: []
